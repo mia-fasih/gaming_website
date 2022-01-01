@@ -207,3 +207,19 @@ footer{
     top: 50rem;
 
 }
+@media screen and (max-width: 550px) {
+
+    .about{
+        margin-left: 2rem;
+        color: lightgreen;
+        font-size: 1rem;
+    
+    }
+    footer{
+        position: relative;
+        top: 30rem;
+    
+    }
+
+    
+}
